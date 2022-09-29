@@ -55,7 +55,7 @@ If you're creating resource accounts for Teams Rooms, the UPN must match the SMT
 [!INCLUDE [mtr-device-config-license-include](../includes/mtr-device-config-license-include.md)]
 
 ## Create a resource account
-
+[!!Mkae type of account explicit]
 [!INCLUDE [mtr-device-config-account-include](../includes/mtr-device-config-account-include.md)]
 
 ## Configure mailbox properties
