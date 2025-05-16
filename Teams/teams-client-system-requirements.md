@@ -42,6 +42,8 @@ The new Teams client delivers up to two times faster app performance while usi
 
 <sup>1</sup> All versions of Windows LTSC are not supported by the Teams desktop client.
 
+>[!Note]
+>For an optimal experience, all devices drivers should be updated to the most recent version. When facing camera, sound or sharing issues, update all software and drivers before raising a support ticket with Microsoft.
 ## New Teams for macOS Desktop
 
 |Component              |Requirement                                                                        |
@@ -54,6 +56,7 @@ The new Teams client delivers up to two times faster app performance while usi
 |Webview2               |Update to the most current version.                                                |
 |Video                  |Compatible webcam.                                                                 |
 |Voice                  |Compatible microphone and speakers, headset with microphone, or equivalent device. |
+
 
 ## New Teams for web
 
